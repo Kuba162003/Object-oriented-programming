@@ -1,0 +1,27 @@
+﻿  Check.cpp
+C:\Users\Pedzi\OneDrive\Pulpit\Szkoła\Programowanie\Shop_database\Shop_database\Check.cpp(15,12): warning C4101: "err": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Pedzi\OneDrive\Pulpit\Szkoła\Programowanie\Shop_database\Shop_database\Check.cpp(30,12): warning C4101: "err": lokalna zmienna, do której nie istnieje odwołanie
+  main.cpp
+C:\Users\Pedzi\OneDrive\Pulpit\Szkoła\Programowanie\Shop_database\Shop_database\main.cpp(14,31): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Pedzi\OneDrive\Pulpit\Szkoła\Programowanie\Shop_database\Shop_database\main.cpp(16,33): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Pedzi\OneDrive\Pulpit\Szkoła\Programowanie\Shop_database\Shop_database\main.cpp(18,33): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Pedzi\OneDrive\Pulpit\Szkoła\Programowanie\Shop_database\Shop_database\main.cpp(20,35): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Pedzi\OneDrive\Pulpit\Szkoła\Programowanie\Shop_database\Shop_database\main.cpp(22,27): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Pedzi\OneDrive\Pulpit\Szkoła\Programowanie\Shop_database\Shop_database\main.cpp(28,30): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Pedzi\OneDrive\Pulpit\Szkoła\Programowanie\Shop_database\Shop_database\main.cpp(34,35): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Pedzi\OneDrive\Pulpit\Szkoła\Programowanie\Shop_database\Shop_database\main.cpp(36,33): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Pedzi\OneDrive\Pulpit\Szkoła\Programowanie\Shop_database\Shop_database\main.cpp(38,29): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Pedzi\OneDrive\Pulpit\Szkoła\Programowanie\Shop_database\Shop_database\main.cpp(40,35): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Pedzi\OneDrive\Pulpit\Szkoła\Programowanie\Shop_database\Shop_database\main.cpp(42,31): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Pedzi\OneDrive\Pulpit\Szkoła\Programowanie\Shop_database\Shop_database\main.cpp(44,31): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Pedzi\OneDrive\Pulpit\Szkoła\Programowanie\Shop_database\Shop_database\main.cpp(48,45): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Pedzi\OneDrive\Pulpit\Szkoła\Programowanie\Shop_database\Shop_database\main.cpp(217,27): warning C4244: "argument": konwersja z "float" do "const _Elem", możliwa utrata danych
+C:\Users\Pedzi\OneDrive\Pulpit\Szkoła\Programowanie\Shop_database\Shop_database\main.cpp(217,27): warning C4244:         with
+C:\Users\Pedzi\OneDrive\Pulpit\Szkoła\Programowanie\Shop_database\Shop_database\main.cpp(217,27): warning C4244:         [
+C:\Users\Pedzi\OneDrive\Pulpit\Szkoła\Programowanie\Shop_database\Shop_database\main.cpp(217,27): warning C4244:             _Elem=char
+C:\Users\Pedzi\OneDrive\Pulpit\Szkoła\Programowanie\Shop_database\Shop_database\main.cpp(217,27): warning C4244:         ]
+  Orders.cpp
+  Products.cpp
+  Searching.cpp
+  Generowanie kodu...
+  Shop_database.vcxproj -> C:\Users\Pedzi\OneDrive\Pulpit\Szkoła\Programowanie\Shop_database\x64\Debug\Shop_database.exe
